@@ -1,3 +1,5 @@
+![Logo](https://cdn.discordapp.com/attachments/498670800123985949/529398590582423552/Timer_Freeze_Mod_III.VC.SA_Banner.png)
+
 # English: [III|VC|SA - CLEO] Timer Freeze
 This modification is for GTA III, GTA Vice City and GTA San Andreas. Stops/plays the in-game timer. Type "timer" to stop/play the in-game timer. The modification has been tested in the version 1.0 of the games. CLEO is needed to have Timer Freeze working in your game.
 
